@@ -1,0 +1,2 @@
+1.Its design philosophy emphasizes code readability with the use of significant indentation.
+3.It supports multiple programming paradigms, including structured, object-oriented and functional programming.
